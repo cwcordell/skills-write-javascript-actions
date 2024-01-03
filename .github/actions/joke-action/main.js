@@ -7,7 +7,4 @@ async function run() {
   core.setOutput("joke-output", joke);
 }
 
-run();git add joke.js main.js
-git commit -m 'creating joke.js and main.js'
-git pull
-git push
+run();
